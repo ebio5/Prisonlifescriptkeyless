@@ -1,2 +1,356 @@
--- Obfuscated Lua
-loadstring(game:HttpGet('data:text/plain;base64,LS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci0tIFByaXNvbiBMaWZlIFRQIEhVQisgIChSYXlmaWVsZCBGdWxsIEludGVncmF0ZWQgVmVyc2lvbikKLS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cgpsb2NhbCB2YXJfcm03NjYwID0gbG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoImh0dHBzOi8vc2lyaXVzLm1lbnUvcmF5ZmllbGQiKSkoKQoKbG9jYWwgdmFyX3NvbDU2bCA9IFJheWZpZWxkOkNyZWF0ZVdpbmRvdyh7CiAgICBOYW1lID0gIlByaXNvbiBMaWZlIFRQIEhVQisiLAogICAgTG9hZGluZ1RpdGxlID0gIlByaXNvbiBMaWZlIFRQIEhVQisiLAogICAgTG9hZGluZ1N1YnRpdGxlID0gIk1hZGUgYnkgQHRwIiwKICAgIENvbmZpZ3VyYXRpb25TYXZpbmcgPSB7IEVuYWJsZWQgPSBmYWxzZSB9Cn0pCgotLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLS0gQ3JlYXRlIFRhYnMKLS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cgpsb2NhbCB2YXJfcmgxdmptICAgPSBXaW5kb3c6Q3JlYXRlVGFiKCJBSU1CT1QiKQpsb2NhbCB2YXJfejQzaDJpICAgPSBXaW5kb3c6Q3JlYXRlVGFiKCJFU1AiKQpsb2NhbCB2YXJfemZzNXZtICAgID0gV2luZG93OkNyZWF0ZVRhYigiVEVMRVBPUlQiKQpsb2NhbCB2YXJfY2wxN2FxICAgPSBXaW5kb3c6Q3JlYXRlVGFiKCJHVU4gQk9PU1QiKQpsb2NhbCB2YXJfaWZoeDFxICA9IFdpbmRvdzpDcmVhdGVUYWIoIklORklOSVRFIEpVTVAiKQpsb2NhbCB2YXJfaDhjeDQxID0gV2luZG93OkNyZWF0ZVRhYigiVEFTRVIgUkVTSVNUIikKCi0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQotLSBCYXNpYyBWYXJpYWJsZXMKLS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cgpsb2NhbCB2YXJfbmpqYmcxID0gZ2FtZS5QbGF5ZXJzLkxvY2FsUGxheWVyCmxvY2FsIHZhcl8wY2l1cjAgPSB3b3Jrc3BhY2UuQ3VycmVudENhbWVyYQoKbG9jYWwgdmFyXzl6Ym9jaCA9IHBsYXllci5DaGFyYWN0ZXIgb3IgcGxheWVyLkNoYXJhY3RlckFkZGVkOldhaXQoKQpsb2NhbCB2YXJfcmxzeGl1ID0gY2hhcjpXYWl0Rm9yQ2hpbGQoIkh1bWFub2lkIikKCmxvY2FsIHZhcl9uY21mamsgPSBmYWxzZQpsb2NhbCB2YXJfMTEyeHI5ID0gZmFsc2UKbG9jYWwgdmFyX2cxdXdnOCA9IGZhbHNlCmxvY2FsIHZhcl84c3FrcGYgPSBmYWxzZQpsb2NhbCB2YXJfN3kwOTBrID0gZmFsc2UKCmxvY2FsIHZhcl9oejF5ZXogPSAiSGVhZCIKbG9jYWwgdmFyX2hueGRlZSA9IDEyMApsb2NhbCB2YXJfYThzNHFwID0gMC4yNQpsb2NhbCB2YXJfejNmdnF2ID0gdHJ1ZQoKbG9jYWwgdmFyX2VwMDFocyA9ICJHdWFyZHMiIC0tIFByaXNvbiBMaWZlIHBvbGljZSB0ZWFtIG5hbWUKCi0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQotLSBSYWluYm93IEZ1bmN0aW9uCi0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKbG9jYWwgdmFyX3phZXV0dSByYWluYm93KCkKICAgIHJldHVybiBDb2xvcjMuZnJvbUhTVigodGljaygpICUgNSkgLyA1LCAxLCAxKQplbmQKCi0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQotLSBGT1YgQ2lyY2xlCi0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKbG9jYWwgdmFyX25lc29waCA9IERyYXdpbmcubmV3KCJDaXJjbGUiKQpDaXJjbGUuVGhpY2tuZXNzID0gMgpDaXJjbGUuTnVtU2lkZXMgPSAxMDAKQ2lyY2xlLlZpc2libGUgPSBmYWxzZQpDaXJjbGUuUmFkaXVzID0gRk9WICogKDMwMC8yMDApCkNpcmNsZS5GaWxsZWQgPSBmYWxzZQoKLS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci0tIEFJTUJPVCBHVUkKLS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgpBSU1UYWI6Q3JlYXRlVG9nZ2xlKHsKICAgIE5hbWUgPSAiQUlNQk9UIiwKICAgIEN1cnJlbnRWYWx1ZSA9IGZhbHNlLAogICAgQ2FsbGJhY2sgPSBmdW5jdGlvbih2KQogICAgICAgIEFpbWJvdEVuYWJsZWQgPSB2CiAgICAgICAgQ2lyY2xlLlZpc2libGUgPSB2CiAgICBlbmQKfSkKCkFJTVRhYjpDcmVhdGVUb2dnbGUoewogICAgTmFtZSA9ICJEaXNhYmxlIEFpbSBUaHJvdWdoIFdhbGxzIChXYWxsQ2hlY2spIiwKICAgIEN1cnJlbnRWYWx1ZSA9IHRydWUsCiAgICBDYWxsYmFjayA9IGZ1bmN0aW9uKHYpCiAgICAgICAgV2FsbENoZWNrID0gdgogICAgZW5kCn0pCgpBSU1UYWI6Q3JlYXRlU2xpZGVyKHsKICAgIE5hbWUgPSAiRk9WIFNpemUiLAogICAgUmFuZ2UgPSB7NTAsIDMwMH0sCiAgICBJbmNyZW1lbnQgPSA1LAogICAgQ3VycmVudFZhbHVlID0gMTIwLAogICAgQ2FsbGJhY2sgPSBmdW5jdGlvbih2KQogICAgICAgIEZPViA9IHYKICAgICAgICBDaXJjbGUuUmFkaXVzID0gdiAqICgzMDAvMjAwKQogICAgZW5kCn0pCgpBSU1UYWI6Q3JlYXRlU2xpZGVyKHsKICAgIE5hbWUgPSAiQWltIFNtb290aG5lc3MiLAogICAgUmFuZ2UgPSB7MC4wNSwgMX0sCiAgICBJbmNyZW1lbnQgPSAwLjA1LAogICAgQ3VycmVudFZhbHVlID0gMC4yNSwKICAgIENhbGxiYWNrID0gZnVuY3Rpb24odikKICAgICAgICBTbW9vdGhuZXNzID0gdgogICAgZW5kCn0pCgotLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLS0gRVNQIEdVSQotLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCkVTUFRhYjpDcmVhdGVUb2dnbGUoewogICAgTmFtZSA9ICJFU1AgKEd1YXJkcyBPbmx5KSIsCiAgICBDdXJyZW50VmFsdWUgPSBmYWxzZSwKICAgIENhbGxiYWNrID0gZnVuY3Rpb24odikKICAgICAgICBFU1BFbmFibGVkID0gdgogICAgZW5kCn0pCgpFU1BUYWI6Q3JlYXRlVG9nZ2xlKHsKICAgIE5hbWUgPSAiM0QgRVNQIChSYWluYm93IE91dGxpbmUpIiwKICAgIEN1cnJlbnRWYWx1ZSA9IGZhbHNlLAogICAgQ2FsbGJhY2sgPSBmdW5jdGlvbih2KQogICAgICAgIEVTUDNERW5hYmxlZCA9IHYKICAgIGVuZAp9KQoKLS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci0tIFRFTEVQT1JUIEdVSQotLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCmxvY2FsIHZhcl83cTJhd3EgYWRkVFAobmFtZSwgcG9zKQogICAgVFBUYWI6Q3JlYXRlQnV0dG9uKHsKICAgICAgICBOYW1lID0gbmFtZSwKICAgICAgICBDYWxsYmFjayA9IGZ1bmN0aW9uKCkKICAgICAgICAgICAgbG9jYWwgdmFyXzlhMmFzZyA9IHBsYXllci5DaGFyYWN0ZXIgYW5kIHBsYXllci5DaGFyYWN0ZXI6RmluZEZpcnN0Q2hpbGQoIkh1bWFub2lkUm9vdFBhcnQiKQogICAgICAgICAgICBpZiBocnAgdGhlbgogICAgICAgICAgICAgICAgaHJwLkNGcmFtZSA9IENGcmFtZS5uZXcocG9zKQogICAgICAgICAgICBlbmQKICAgICAgICBlbmQKICAgIH0pCmVuZAoKYWRkVFAoIkFLLTQ3IiwgVmVjdG9yMy5uZXcoLTkzNi4yNSwgOTcsIDIwMzQuNzUpKQphZGRUUCgiUG9saWNlIE9mZmljZSIsIFZlY3RvcjMubmV3KDgxMy42NCwgOTkuOTgsIDIyMjIuOCkpCmFkZFRQKCJDcmltaW5hbCBBcmVhIiwgVmVjdG9yMy5uZXcoLTk3NC4wMywgMTA4LjMyLCAyMDU5LjQzKSkKYWRkVFAoIlRvd2VyIiwgVmVjdG9yMy5uZXcoODIxLjk1LCAxMjUuODQsIDI1ODYuNTMpKQoKLS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci0tIElORklOSVRFIEpVTVAKLS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgpKdW1wVGFiOkNyZWF0ZVRvZ2dsZSh7CiAgICBOYW1lID0gIkluZmluaXRlIEp1bXAiLAogICAgQ3VycmVudFZhbHVlID0gZmFsc2UsCiAgICBDYWxsYmFjayA9IGZ1bmN0aW9uKHYpCiAgICAgICAgaW5mSnVtcEVuYWJsZWQgPSB2CiAgICBlbmQKfSkKCi0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQotLSBUQVNFUiBSRVNJU1QKLS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgpUYXNlclRhYjpDcmVhdGVUb2dnbGUoewogICAgTmFtZSA9ICJUYXNlciBSZXNpc3RhbmNlIChObyBSYWdkb2xsKSIsCiAgICBDdXJyZW50VmFsdWUgPSBmYWxzZSwKICAgIENhbGxiYWNrID0gZnVuY3Rpb24odikKICAgICAgICBBbnRpVGFzZXJFbmFibGVkID0gdgogICAgICAgIFJheWZpZWxkOk5vdGlmeSh7CiAgICAgICAgICAgIFRpdGxlID0gIlRhc2VyIFJlc2lzdGFuY2UiLAogICAgICAgICAgICBDb250ZW50ID0gKHYgYW5kICJFbmFibGVkIiBvciAiRGlzYWJsZWQiKSwKICAgICAgICAgICAgRHVyYXRpb24gPSAyCiAgICAgICAgfSkKICAgIGVuZAp9KQoKLS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci0tIEFLLTQ3IEluZmluaXRlIEFtbW8KLS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgpHdW5UYWI6Q3JlYXRlQnV0dG9uKHsKICAgIE5hbWUgPSAiQUstNDcgSW5maW5pdGUgQW1tbyIsCiAgICBDYWxsYmFjayA9IGZ1bmN0aW9uKCkKICAgICAgICBsb2NhbCB2YXJfN3FqMzEyIG1vbml0b3IodG9vbCkKICAgICAgICAgICAgaWYgdG9vbC5OYW1lID09ICJBSy00NyIgdGhlbgogICAgICAgICAgICAgICAgdGFzay5zcGF3bihmdW5jdGlvbigpCiAgICAgICAgICAgICAgICAgICAgd2hpbGUgdG9vbC5QYXJlbnQgPT0gcGxheWVyLkJhY2twYWNrIG9yIHRvb2wuUGFyZW50ID09IHBsYXllci5DaGFyYWN0ZXIgZG8KICAgICAgICAgICAgICAgICAgICAgICAgbG9jYWwgdmFyX3dwNnc5bSA9IHRvb2w6RmluZEZpcnN0Q2hpbGQoIkFtbW8iKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgb3IgdG9vbDpGaW5kRmlyc3RDaGlsZCgiR3VuU2V0dGluZ3MiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kIHRvb2wuR3VuU2V0dGluZ3M6RmluZEZpcnN0Q2hpbGQoIkFtbW8iKQogICAgICAgICAgICAgICAgICAgICAgICBpZiBhbW1vIHRoZW4gYW1tby5WYWx1ZSA9IDk5OTk5OSBlbmQKICAgICAgICAgICAgICAgICAgICAgICAgdGFzay53YWl0KDAuMSkKICAgICAgICAgICAgICAgICAgICBlbmQKICAgICAgICAgICAgICAgIGVuZCkKICAgICAgICAgICAgZW5kCiAgICAgICAgZW5kCgogICAgICAgIHBsYXllci5CYWNrcGFjay5DaGlsZEFkZGVkOkNvbm5lY3QobW9uaXRvcikKICAgICAgICBpZiBwbGF5ZXIuQ2hhcmFjdGVyIHRoZW4KICAgICAgICAgICAgcGxheWVyLkNoYXJhY3Rlci5DaGlsZEFkZGVkOkNvbm5lY3QobW9uaXRvcikKICAgICAgICBlbmQKCiAgICAgICAgUmF5ZmllbGQ6Tm90aWZ5KHsKICAgICAgICAgICAgVGl0bGUgPSAiR3VuIEJvb3N0IiwKICAgICAgICAgICAgQ29udGVudCA9ICJBSy00NyBJbmZpbml0ZSBBbW1vIEVuYWJsZWQiLAogICAgICAgICAgICBEdXJhdGlvbiA9IDMKICAgICAgICB9KQogICAgZW5kCn0pCgotLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLS0gVmlzaWJpbGl0eSBDaGVjawotLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCmxvY2FsIHZhcl9mZXh2eHYgY2FuU2VlKHBhcnQpCiAgICBpZiBub3QgV2FsbENoZWNrIHRoZW4gcmV0dXJuIHRydWUgZW5kCiAgICBsb2NhbCB2YXJfZmN6Zmp5ID0gY2FtLkNGcmFtZS5Qb3NpdGlvbgogICAgbG9jYWwgdmFyX2x3NnF3bSA9IChwYXJ0LlBvc2l0aW9uIC0gb3JpZ2luKQogICAgbG9jYWwgdmFyXzdlYXZyaiA9IFJheWNhc3RQYXJhbXMubmV3KCkKICAgIHBhcmFtcy5GaWx0ZXJEZXNjZW5kYW50c0luc3RhbmNlcyA9IHtwbGF5ZXIuQ2hhcmFjdGVyfQogICAgcGFyYW1zLkZpbHRlclR5cGUgPSBFbnVtLlJheWNhc3RGaWx0ZXJUeXBlLkJsYWNrbGlzdAogICAgbG9jYWwgdmFyX3EwdGcxeCA9IHdvcmtzcGFjZTpSYXljYXN0KG9yaWdpbiwgZGlyZWN0aW9uLCBwYXJhbXMpCiAgICByZXR1cm4gbm90IHJlc3VsdCBvciByZXN1bHQuSW5zdGFuY2U6SXNEZXNjZW5kYW50T2YocGFydC5QYXJlbnQpCmVuZAoKLS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci0tIEVTUCBTZXR1cAotLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCmxvY2FsIHZhcl9xcWJ5NzIgPSB7fQoKbG9jYWwgdmFyX25vOXZjZiBnZXRMYWJlbChwbHIpCiAgICBpZiBub3QgbGFiZWxzW3Bscl0gdGhlbgogICAgICAgIGxvY2FsIHZhcl81dW9xcDkgPSBEcmF3aW5nLm5ldygiVGV4dCIpCiAgICAgICAgdHh0LlNpemUgPSAxNgogICAgICAgIHR4dC5PdXRsaW5lID0gdHJ1ZQogICAgICAgIHR4dC5WaXNpYmxlID0gZmFsc2UKICAgICAgICB0eHQuQ29sb3IgPSBDb2xvcjMuZnJvbVJHQigwLCAyNTUsIDI1NSkKICAgICAgICBsYWJlbHNbcGxyXSA9IHR4dAogICAgZW5kCiAgICByZXR1cm4gbGFiZWxzW3Bscl0KZW5kCgotLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLS0gTWFpbiBMb29wIChBSU1CT1QgLyBFU1AgLyBUQVNFUiBSRVNJU1QpCi0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKZ2FtZTpHZXRTZXJ2aWNlKCJSdW5TZXJ2aWNlIikuUmVuZGVyU3RlcHBlZDpDb25uZWN0KGZ1bmN0aW9uKCkKCiAgICAtLSBUYXNlciBSZXNpc3RhbmNlCiAgICBpZiBBbnRpVGFzZXJFbmFibGVkIHRoZW4KICAgICAgICBodW1hbm9pZC5QbGF0Zm9ybVN0YW5kID0gZmFsc2UKICAgICAgICBodW1hbm9pZC5TaXQgPSBmYWxzZQogICAgZW5kCgogICAgLS0gRk9WIENpcmNsZQogICAgaWYgQWltYm90RW5hYmxlZCB0aGVuCiAgICAgICAgQ2lyY2xlLkNvbG9yID0gcmFpbmJvdygpCiAgICAgICAgQ2lyY2xlLlBvc2l0aW9uID0gVmVjdG9yMi5uZXcoY2FtLlZpZXdwb3J0U2l6ZS5YLzIsIGNhbS5WaWV3cG9ydFNpemUuWS8yKQogICAgICAgIENpcmNsZS5SYWRpdXMgPSBGT1YgKiAoMzAwLzIwMCkKICAgIGVuZAoKICAgIC0tIEFJTUJPVAogICAgaWYgQWltYm90RW5hYmxlZCB0aGVuCiAgICAgICAgbG9jYWwgdmFyX2puYjN0eCA9IG5pbAogICAgICAgIGxvY2FsIHZhcl9mbGw5ejUgPSBGT1YKCiAgICAgICAgZm9yIF8sIHBsciBpbiBpcGFpcnMoZ2FtZS5QbGF5ZXJzOkdldFBsYXllcnMoKSkgZG8KICAgICAgICAgICAgaWYgcGxyIH49IHBsYXllciBhbmQgcGxyLlRlYW0gYW5kIHBsci5UZWFtLk5hbWUgPT0gdGFyZ2V0VGVhbU5hbWUgdGhlbgogICAgICAgICAgICAgICAgbG9jYWwgdmFyX3Q1ajk0biA9IHBsci5DaGFyYWN0ZXIKICAgICAgICAgICAgICAgIGlmIGMgYW5kIGM6RmluZEZpcnN0Q2hpbGQoQWltUGFydCkKICAgICAgICAgICAgICAgICAgICBhbmQgYzpGaW5kRmlyc3RDaGlsZCgiSHVtYW5vaWQiKQogICAgICAgICAgICAgICAgICAgIGFuZCBjLkh1bWFub2lkLkhlYWx0aCA+IDAgdGhlbgoKICAgICAgICAgICAgICAgICAgICBsb2NhbCB2YXJfMmtxNzd4LCB2aXNpYmxlID0gY2FtOldvcmxkVG9WaWV3cG9ydFBvaW50KGNbQWltUGFydF0uUG9zaXRpb24pCiAgICAgICAgICAgICAgICAgICAgaWYgdmlzaWJsZSB0aGVuCiAgICAgICAgICAgICAgICAgICAgICAgIGxvY2FsIHZhcl9jNGYxbWggPSAoVmVjdG9yMi5uZXcocG9zLlgsIHBvcy5ZKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBWZWN0b3IyLm5ldyhjYW0uVmlld3BvcnRTaXplLlgvMiwgY2FtLlZpZXdwb3J0U2l6ZS5ZLzIpKS5NYWduaXR1ZGUKICAgICAgICAgICAgICAgICAgICAgICAgaWYgZGlzdCA8IHNob3J0ZXN0IGFuZCBjYW5TZWUoY1tBaW1QYXJ0XSkgdGhlbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvcnRlc3QgPSBkaXN0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZWFyZXN0ID0gY1tBaW1QYXJ0XQogICAgICAgICAgICAgICAgICAgICAgICBlbmQKICAgICAgICAgICAgICAgICAgICBlbmQKICAgICAgICAgICAgICAgIGVuZAogICAgICAgICAgICBlbmQKICAgICAgICBlbmQKCiAgICAgICAgaWYgbmVhcmVzdCB0aGVuCiAgICAgICAgICAgIGxvY2FsIHZhcl9kZXY0bzEgPSAobmVhcmVzdC5Qb3NpdGlvbiAtIGNhbS5DRnJhbWUuUG9zaXRpb24pLlVuaXQKICAgICAgICAgICAgY2FtLkNGcmFtZSA9IGNhbS5DRnJhbWU6TGVycCgKICAgICAgICAgICAgICAgIENGcmFtZS5uZXcoY2FtLkNGcmFtZS5Qb3NpdGlvbiwgY2FtLkNGcmFtZS5Qb3NpdGlvbiArIGRpciksCiAgICAgICAgICAgICAgICBTbW9vdGhuZXNzCiAgICAgICAgICAgICkKICAgICAgICBlbmQKICAgIGVuZAoKICAgIC0tIEVTUAogICAgZm9yIF8sIHBsciBpbiBpcGFpcnMoZ2FtZS5QbGF5ZXJzOkdldFBsYXllcnMoKSkgZG8KICAgICAgICBpZiBwbHIuVGVhbSBhbmQgcGxyLlRlYW0uTmFtZSA9PSB0YXJnZXRUZWFtTmFtZQogICAgICAgICAgICBhbmQgcGxyLkNoYXJhY3RlcgogICAgICAgICAgICBhbmQgcGxyLkNoYXJhY3RlcjpGaW5kRmlyc3RDaGlsZCgiSHVtYW5vaWRSb290UGFydCIpIHRoZW4KCiAgICAgICAgICAgIGxvY2FsIHZhcl92Z2VoY3IgPSBwbHIuQ2hhcmFjdGVyLkh1bWFub2lkUm9vdFBhcnQKICAgICAgICAgICAgbG9jYWwgdmFyX2g4ZjZoeSwgdmlzaWJsZSA9IGNhbTpXb3JsZFRvVmlld3BvcnRQb2ludChocnAuUG9zaXRpb24pCiAgICAgICAgICAgIGxvY2FsIHZhcl9oczBoY2wgPSBnZXRMYWJlbChwbHIpCgogICAgICAgICAgICBpZiBFU1BFbmFibGVkIHRoZW4KICAgICAgICAgICAgICAgIGlmIHZpc2libGUgdGhlbgogICAgICAgICAgICAgICAgICAgIGxhYmVsLlZpc2libGUgPSB0cnVlCiAgICAgICAgICAgICAgICAgICAgbGFiZWwuUG9zaXRpb24gPSBWZWN0b3IyLm5ldyhoZWFkUG9zLlgsIGhlYWRQb3MuWSkKICAgICAgICAgICAgICAgICAgICBsYWJlbC5UZXh0ID0gcGxyLk5hbWUKICAgICAgICAgICAgICAgICAgICBsYWJlbC5Db2xvciA9IENvbG9yMy5mcm9tUkdCKDAsIDIwMCwgMjU1KQogICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgIGxhYmVsLlZpc2libGUgPSBmYWxzZQogICAgICAgICAgICAgICAgZW5kCiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIGxhYmVsLlZpc2libGUgPSBmYWxzZQogICAgICAgICAgICBlbmQKCiAgICAgICAgICAgIC0tIDNEIEVTUCBIaWdobGlnaHQKICAgICAgICAgICAgaWYgRVNQM0RFbmFibGVkIHRoZW4KICAgICAgICAgICAgICAgIGlmIG5vdCBwbHIuQ2hhcmFjdGVyOkZpbmRGaXJzdENoaWxkKCJIaWdobGlnaHQiKSB0aGVuCiAgICAgICAgICAgICAgICAgICAgbG9jYWwgdmFyX2hvM200YSA9IEluc3RhbmNlLm5ldygiSGlnaGxpZ2h0IiwgcGxyLkNoYXJhY3RlcikKICAgICAgICAgICAgICAgICAgICBoLkZpbGxUcmFuc3BhcmVuY3kgPSAxCiAgICAgICAgICAgICAgICAgICAgaC5PdXRsaW5lVHJhbnNwYXJlbmN5ID0gMAogICAgICAgICAgICAgICAgZW5kCiAgICAgICAgICAgICAgICBwbHIuQ2hhcmFjdGVyLkhpZ2hsaWdodC5PdXRsaW5lQ29sb3IgPSByYWluYm93KCkKICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgaWYgcGxyLkNoYXJhY3RlcjpGaW5kRmlyc3RDaGlsZCgiSGlnaGxpZ2h0IikgdGhlbgogICAgICAgICAgICAgICAgICAgIHBsci5DaGFyYWN0ZXIuSGlnaGxpZ2h0OkRlc3Ryb3koKQogICAgICAgICAgICAgICAgZW5kCiAgICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgZW5kCmVuZCkKCi0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQotLSBJbmZpbml0ZSBKdW1wCi0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKZ2FtZTpHZXRTZXJ2aWNlKCJVc2VySW5wdXRTZXJ2aWNlIikuSnVtcFJlcXVlc3Q6Q29ubmVjdChmdW5jdGlvbigpCiAgICBpZiBpbmZKdW1wRW5hYmxlZCB0aGVuCiAgICAgICAgaHVtYW5vaWQ6Q2hhbmdlU3RhdGUoRW51bS5IdW1hbm9pZFN0YXRlVHlwZS5KdW1waW5nKQogICAgZW5kCmVuZCkKCi0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQotLSBSZXNwYXduIFN1cHBvcnQKLS09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgpwbGF5ZXIuQ2hhcmFjdGVyQWRkZWQ6Q29ubmVjdChmdW5jdGlvbihuZXcpCiAgICBjaGFyID0gbmV3CiAgICBodW1hbm9pZCA9IG5ldzpXYWl0Rm9yQ2hpbGQoIkh1bWFub2lkIikKZW5kKQ=='))()
+--====================================================
+-- Prison Life TP HUB+  (Rayfield Full Integrated Version)
+--====================================================
+
+local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
+
+local Window = Rayfield:CreateWindow({
+    Name = "Prison Life TP HUB+",
+    LoadingTitle = "Prison Life TP HUB+",
+    LoadingSubtitle = "Made by @tp",
+    ConfigurationSaving = { Enabled = false }
+})
+
+--====================================================
+-- Create Tabs
+--====================================================
+
+local AIMTab   = Window:CreateTab("AIMBOT")
+local ESPTab   = Window:CreateTab("ESP")
+local TPTab    = Window:CreateTab("TELEPORT")
+local GunTab   = Window:CreateTab("GUN BOOST")
+local JumpTab  = Window:CreateTab("INFINITE JUMP")
+local TaserTab = Window:CreateTab("TASER RESIST")
+
+--====================================================
+-- Basic Variables
+--====================================================
+
+local player = game.Players.LocalPlayer
+local cam = workspace.CurrentCamera
+
+local char = player.Character or player.CharacterAdded:Wait()
+local humanoid = char:WaitForChild("Humanoid")
+
+local AimbotEnabled = false
+local ESPEnabled = false
+local ESP3DEnabled = false
+local infJumpEnabled = false
+local AntiTaserEnabled = false
+
+local AimPart = "Head"
+local FOV = 120
+local Smoothness = 0.25
+local WallCheck = true
+
+local targetTeamName = "Guards" -- Prison Life police team name
+
+--====================================================
+-- Rainbow Function
+--====================================================
+
+local function rainbow()
+    return Color3.fromHSV((tick() % 5) / 5, 1, 1)
+end
+
+--====================================================
+-- FOV Circle
+--====================================================
+
+local Circle = Drawing.new("Circle")
+Circle.Thickness = 2
+Circle.NumSides = 100
+Circle.Visible = false
+Circle.Radius = FOV * (300/200)
+Circle.Filled = false
+
+--====================================================
+-- AIMBOT GUI
+--====================================================
+
+AIMTab:CreateToggle({
+    Name = "AIMBOT",
+    CurrentValue = false,
+    Callback = function(v)
+        AimbotEnabled = v
+        Circle.Visible = v
+    end
+})
+
+AIMTab:CreateToggle({
+    Name = "Disable Aim Through Walls (WallCheck)",
+    CurrentValue = true,
+    Callback = function(v)
+        WallCheck = v
+    end
+})
+
+AIMTab:CreateSlider({
+    Name = "FOV Size",
+    Range = {50, 300},
+    Increment = 5,
+    CurrentValue = 120,
+    Callback = function(v)
+        FOV = v
+        Circle.Radius = v * (300/200)
+    end
+})
+
+AIMTab:CreateSlider({
+    Name = "Aim Smoothness",
+    Range = {0.05, 1},
+    Increment = 0.05,
+    CurrentValue = 0.25,
+    Callback = function(v)
+        Smoothness = v
+    end
+})
+
+--====================================================
+-- ESP GUI
+--====================================================
+
+ESPTab:CreateToggle({
+    Name = "ESP (Guards Only)",
+    CurrentValue = false,
+    Callback = function(v)
+        ESPEnabled = v
+    end
+})
+
+ESPTab:CreateToggle({
+    Name = "3D ESP (Rainbow Outline)",
+    CurrentValue = false,
+    Callback = function(v)
+        ESP3DEnabled = v
+    end
+})
+
+--====================================================
+-- TELEPORT GUI
+--====================================================
+
+local function addTP(name, pos)
+    TPTab:CreateButton({
+        Name = name,
+        Callback = function()
+            local hrp = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+            if hrp then
+                hrp.CFrame = CFrame.new(pos)
+            end
+        end
+    })
+end
+
+addTP("AK-47", Vector3.new(-936.25, 97, 2034.75))
+addTP("Police Office", Vector3.new(813.64, 99.98, 2222.8))
+addTP("Criminal Area", Vector3.new(-974.03, 108.32, 2059.43))
+addTP("Tower", Vector3.new(821.95, 125.84, 2586.53))
+
+--====================================================
+-- INFINITE JUMP
+--====================================================
+
+JumpTab:CreateToggle({
+    Name = "Infinite Jump",
+    CurrentValue = false,
+    Callback = function(v)
+        infJumpEnabled = v
+    end
+})
+
+--====================================================
+-- TASER RESIST
+--====================================================
+
+TaserTab:CreateToggle({
+    Name = "Taser Resistance (No Ragdoll)",
+    CurrentValue = false,
+    Callback = function(v)
+        AntiTaserEnabled = v
+        Rayfield:Notify({
+            Title = "Taser Resistance",
+            Content = (v and "Enabled" or "Disabled"),
+            Duration = 2
+        })
+    end
+})
+
+--====================================================
+-- AK-47 Infinite Ammo
+--====================================================
+
+GunTab:CreateButton({
+    Name = "AK-47 Infinite Ammo",
+    Callback = function()
+        local function monitor(tool)
+            if tool.Name == "AK-47" then
+                task.spawn(function()
+                    while tool.Parent == player.Backpack or tool.Parent == player.Character do
+                        local ammo = tool:FindFirstChild("Ammo")
+                            or tool:FindFirstChild("GunSettings")
+                            and tool.GunSettings:FindFirstChild("Ammo")
+                        if ammo then ammo.Value = 999999 end
+                        task.wait(0.1)
+                    end
+                end)
+            end
+        end
+
+        player.Backpack.ChildAdded:Connect(monitor)
+        if player.Character then
+            player.Character.ChildAdded:Connect(monitor)
+        end
+
+        Rayfield:Notify({
+            Title = "Gun Boost",
+            Content = "AK-47 Infinite Ammo Enabled",
+            Duration = 3
+        })
+    end
+})
+
+--====================================================
+-- Visibility Check
+--====================================================
+
+local function canSee(part)
+    if not WallCheck then return true end
+    local origin = cam.CFrame.Position
+    local direction = (part.Position - origin)
+    local params = RaycastParams.new()
+    params.FilterDescendantsInstances = {player.Character}
+    params.FilterType = Enum.RaycastFilterType.Blacklist
+    local result = workspace:Raycast(origin, direction, params)
+    return not result or result.Instance:IsDescendantOf(part.Parent)
+end
+
+--====================================================
+-- ESP Setup
+--====================================================
+
+local labels = {}
+
+local function getLabel(plr)
+    if not labels[plr] then
+        local txt = Drawing.new("Text")
+        txt.Size = 16
+        txt.Outline = true
+        txt.Visible = false
+        txt.Color = Color3.fromRGB(0, 255, 255)
+        labels[plr] = txt
+    end
+    return labels[plr]
+end
+
+--====================================================
+-- Main Loop (AIMBOT / ESP / TASER RESIST)
+--====================================================
+
+game:GetService("RunService").RenderStepped:Connect(function()
+
+    -- Taser Resistance
+    if AntiTaserEnabled then
+        humanoid.PlatformStand = false
+        humanoid.Sit = false
+    end
+
+    -- FOV Circle
+    if AimbotEnabled then
+        Circle.Color = rainbow()
+        Circle.Position = Vector2.new(cam.ViewportSize.X/2, cam.ViewportSize.Y/2)
+        Circle.Radius = FOV * (300/200)
+    end
+
+    -- AIMBOT
+    if AimbotEnabled then
+        local nearest = nil
+        local shortest = FOV
+
+        for _, plr in ipairs(game.Players:GetPlayers()) do
+            if plr ~= player and plr.Team and plr.Team.Name == targetTeamName then
+                local c = plr.Character
+                if c and c:FindFirstChild(AimPart)
+                    and c:FindFirstChild("Humanoid")
+                    and c.Humanoid.Health > 0 then
+
+                    local pos, visible = cam:WorldToViewportPoint(c[AimPart].Position)
+                    if visible then
+                        local dist = (Vector2.new(pos.X, pos.Y)
+                            - Vector2.new(cam.ViewportSize.X/2, cam.ViewportSize.Y/2)).Magnitude
+                        if dist < shortest and canSee(c[AimPart]) then
+                            shortest = dist
+                            nearest = c[AimPart]
+                        end
+                    end
+                end
+            end
+        end
+
+        if nearest then
+            local dir = (nearest.Position - cam.CFrame.Position).Unit
+            cam.CFrame = cam.CFrame:Lerp(
+                CFrame.new(cam.CFrame.Position, cam.CFrame.Position + dir),
+                Smoothness
+            )
+        end
+    end
+
+    -- ESP
+    for _, plr in ipairs(game.Players:GetPlayers()) do
+        if plr.Team and plr.Team.Name == targetTeamName
+            and plr.Character
+            and plr.Character:FindFirstChild("HumanoidRootPart") then
+
+            local hrp = plr.Character.HumanoidRootPart
+            local headPos, visible = cam:WorldToViewportPoint(hrp.Position)
+            local label = getLabel(plr)
+
+            if ESPEnabled then
+                if visible then
+                    label.Visible = true
+                    label.Position = Vector2.new(headPos.X, headPos.Y)
+                    label.Text = plr.Name
+                    label.Color = Color3.fromRGB(0, 200, 255)
+                else
+                    label.Visible = false
+                end
+            else
+                label.Visible = false
+            end
+
+            -- 3D ESP Highlight
+            if ESP3DEnabled then
+                if not plr.Character:FindFirstChild("Highlight") then
+                    local h = Instance.new("Highlight", plr.Character)
+                    h.FillTransparency = 1
+                    h.OutlineTransparency = 0
+                end
+                plr.Character.Highlight.OutlineColor = rainbow()
+            else
+                if plr.Character:FindFirstChild("Highlight") then
+                    plr.Character.Highlight:Destroy()
+                end
+            end
+        end
+    end
+end)
+
+--====================================================
+-- Infinite Jump
+--====================================================
+
+game:GetService("UserInputService").JumpRequest:Connect(function()
+    if infJumpEnabled then
+        humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+    end
+end)
+
+--====================================================
+-- Respawn Support
+--====================================================
+
+player.CharacterAdded:Connect(function(new)
+    char = new
+    humanoid = new:WaitForChild("Humanoid")
+end)
